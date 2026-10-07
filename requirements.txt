@@ -5,4 +5,5 @@ matplotlib
 seaborn
 altair
 plotly
-scikit-learn
+scikit-learnnetworkx
+pyvis
