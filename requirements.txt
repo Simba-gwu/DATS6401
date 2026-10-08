@@ -7,3 +7,4 @@ altair
 plotly
 scikit-learnnetworkx
 pyvis
+networkx
