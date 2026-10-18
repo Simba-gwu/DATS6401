@@ -1,10 +1,11 @@
 streamlit
 pandas
 numpy
+plotly
+scikit-learn
+requests
+networkx
+pyvis
 matplotlib
 seaborn
 altair
-plotly
-scikit-learn
-pyvis
-networkx
