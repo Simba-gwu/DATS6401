@@ -1,0 +1,12 @@
+{
+  "month": "202504",
+  "original_rows": 664199,
+  "valid_trips": 648210,
+  "station_to_station_trips": 422206,
+  "excluded_from_station_network": 226004,
+  "unique_stations_geolocated": 801,
+  "date_start": "2025-04-01",
+  "date_end": "2025-04-30",
+  "source_url": "https://s3.amazonaws.com/capitalbikeshare-data/202504-capitalbikeshare-tripdata.zip",
+  "notes": "Time charts include valid rides without station IDs. Map and graph only use trips with both station IDs. Dates are local clock time without timezone information."
+}
