@@ -1,0 +1,11 @@
+category,total_images,sampled_images
+AnnualCrop,3000,30
+Forest,3000,30
+HerbaceousVegetation,3000,30
+Highway,2500,30
+Industrial,2500,30
+Pasture,2000,30
+PermanentCrop,2500,30
+Residential,3000,30
+River,2500,30
+SeaLake,3000,30
